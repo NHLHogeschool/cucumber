@@ -1,0 +1,16 @@
+nl:
+  hello: "Hallo wereld"
+
+  products:
+    index:
+      title: Artikel toevoegen aan %{name}
+    show:
+      title: Artikel bekijken
+
+  activerecord:
+    models:
+      product: Artikel
+    attributes:
+      product:
+        title: Titel
+        details: Omschrijving
